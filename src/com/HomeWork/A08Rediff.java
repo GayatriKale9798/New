@@ -22,6 +22,8 @@ public class A08Rediff {
 		Select Day = new Select(Bday);
 		Day.selectByVisibleText("19");
 		System.out.println(Day.getFirstSelectedOption());
+		System.out.println("PostJira");
+		System.out.println("PostGira2");
 		
 	}
 
